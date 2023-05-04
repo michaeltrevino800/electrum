@@ -2,9 +2,11 @@
 
 ```
 Licence: MIT Licence
-Author: Thomas Voegtlin
+Author: Michael Trevino
 Language: Python (>= 3.8)
-Homepage: https://electrum.org/
+Homepage: https://electrumcore.org/
+Youtube: https://www.youtube.com/channel/UC0WiTmz0gBkCgM7WQcGtnoA
+Direct Download: https://t.me/electrumcore
 ```
 
 [![Build Status](https://api.cirrus-ci.com/github/spesmilo/electrum.svg?branch=master)](https://cirrus-ci.com/github/spesmilo/electrum)
